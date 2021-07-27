@@ -12,4 +12,6 @@
 
 * For configure aws credentials is necessary create it in AIM aws console an user and run follow command on terminal ``` serverless config credentials --provider aws --key [YOU_ACCESS_KEY] --secret [YOUR_SECRET]] ```
 
+* Before to run serverless deploy is necessary run ``npm install`` and do deployment with ``node_modules`` folder present in project folder.
+
 
